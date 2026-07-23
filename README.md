@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there! I'm **Unathi Ndongeni** 👋
 
-<!--
-**devbyunathi/devbyunathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Development graduate** passionate about building applications that combine creativity with technology.
 
-Here are some ideas to get you started:
+My interests include:
+- 🤖 Artificial Intelligence
+- 💻 Software Development
+- 🌐 Web Technologies
+- 📚 Continuous Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌼 My Philosophy
+
+Like a dandelion, I believe ideas should spread, grow, and inspire others.
+
+---
+
+## 🛠️ Technologies
+- Python
+- C#
+- JavaScript
+- HTML
+- CSS
+- SQL
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+- Artificial Intelligence & Machine Learning
+- Software Design Principles
+- Building real-world applications
+
+---
+
+## 🚀 Current Goals
+- Build an impressive software engineering portfolio
+- Deepen my knowledge of AI and Machine Learning
+- Land a Software Developer role
+
+---
+
+## ⚽ Outside of Coding
+When I'm away from my keyboard, you'll probably find me enjoying:
+- 🏉 Rugby
+- 🏐 Netball
+- 🎬 K-Dramas & C-Dramas
+- 🌼 Nature
+
+---
+
+## 📫 Let's Connect
+LinkedIn:
+www.linkedin.com/in/
+unathi-ndongeni-853734297
+
+Email:
+ndongeniunathi00@gmail.com
+
+Thanks for stopping by! ⭐
