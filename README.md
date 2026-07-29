@@ -47,6 +47,7 @@ When I'm away from my keyboard, you'll probably find me enjoying:
 - 🏐 Netball
 - 🎬 K-Dramas & C-Dramas
 - 🌼 Nature
+- 📚 Reading
 
 ---
 
