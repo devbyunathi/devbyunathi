@@ -37,7 +37,7 @@ Like a dandelion, I believe ideas should spread, grow, and inspire others.
 ## 🚀 Current Goals
 - Build an impressive software engineering portfolio
 - Deepen my knowledge of AI and Machine Learning
-- Land a Software Developer role
+- Land a Software Developer Intern role
 
 ---
 
@@ -53,8 +53,7 @@ When I'm away from my keyboard, you'll probably find me enjoying:
 
 ## 📫 Let's Connect
 LinkedIn:
-www.linkedin.com/in/
-unathi-ndongeni-853734297
+www.linkedin.com/in/unathi-ndongeni-853734297
 
 Email:
 ndongeniunathi00@gmail.com
